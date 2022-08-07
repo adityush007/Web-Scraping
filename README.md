@@ -1,2 +1,2 @@
-# Web-Scrapping
-Project Files on web scrapping.
+# Web-Scraping
+Project Files on web scraping.
